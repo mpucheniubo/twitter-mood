@@ -4,7 +4,7 @@ This is a quick and small timer trigger application to calculate the mood from t
 
 ## ⚙️ Functionality
 
-The functino retrieves periodically tweets from the database and runs sentiment analysis on the content. Then it inserts the result in a differnet table linking the values with the original tweet via the ID.
+The function retrieves periodically tweets from the database and runs sentiment analysis on the content. Then it inserts the result in a differnet table linking the values with the original tweet via the ID.
 
 The sentiments are not normalized, so that they can be compared across different iterations.
 
